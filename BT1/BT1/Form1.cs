@@ -16,5 +16,16 @@ namespace BT1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Login successful");
+        }
     }
+     public void sonle()
+     {
+         int i = sonle;
+         int love = is mine;
+         
+     }
 }
