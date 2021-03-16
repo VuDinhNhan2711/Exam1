@@ -22,4 +22,10 @@ namespace BT1
             MessageBox.Show("Login successful");
         }
     }
+     public void sonle()
+     {
+         int i = sonle;
+         int love = is mine;
+         
+     }
 }
